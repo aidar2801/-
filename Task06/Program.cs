@@ -7,7 +7,7 @@ if (number % 2==0)
 }
 else 
 {
-    Console.WriteLine($"{number} число является нечетным");
+    Console.WriteLine($"{number} число не является четным");
 }
 
 
